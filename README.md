@@ -24,7 +24,7 @@ My focus is on transforming raw, scattered data into visual stories, predictive 
 
 Here are some of the projects I have developed (click on the titles to explore the code):
 
-### 🎮 [Video Game Sales Analysis and Market Insights](ENLACE_A_TU_REPOSITORIO)
+### 🎮 [Video Game Sales Analysis and Market Insights](gh repo clone ElenaVF95/Video-Game-Sales-Analysis-and-Market-Insights-TripleTen-Data-Science-Bootcamp-2025-)
 *TripleTen Data Science Bootcamp (2025)*
 * **What I did:** Conducted an Exploratory Data Analysis (EDA) and statistical hypothesis testing on a historical video game sales dataset.
 * **Impact:** Delivered data-driven recommendations for marketing campaign planning by identifying high-growth platforms and regional markets.
